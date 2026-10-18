@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/sm-api/:path*", "destination": "https://studymonkeysf.netlify.app/api/:path*" }
+  ]
+}
